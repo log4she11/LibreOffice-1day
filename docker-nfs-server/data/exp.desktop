@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=/bin/bash -c "echo 111 > /tmp/pwned"
+Icon=dialog-scripts
+Name=Configure SSH agent
+Path=
+Type=Application
+X-KDE-AutostartScript=true

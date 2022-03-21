@@ -1,0 +1,1 @@
+/data *(rw,root_squash,sync,no_subtree_check,insecure)
